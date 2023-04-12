@@ -19,7 +19,7 @@ I'm part of Libnova project management team since early 2023.
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/css.svg"> &nbsp;
+    src="./assets/microsoft-sql-server-logo.svg"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -31,11 +31,12 @@ I'm part of Libnova project management team since early 2023.
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/react.svg"> &nbsp;
+    src="./assets/agile.webp"> &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">
+    src="./assets/scrumagile.jpg">
+    
 
 
 
