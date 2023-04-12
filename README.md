@@ -8,7 +8,10 @@ Specialties:Project Management, GIS, VMWare, SaaS, PaaS, IaaS, Unix/Linux, Datab
 
 I'm part of Libnova project management team since early 2023.
 
-
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/itil-seeklogo.com.svg">&nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -33,10 +36,7 @@ I'm part of Libnova project management team since early 2023.
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
-&nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/itil-seeklogo.com.svg">
+
+
 
 --------
