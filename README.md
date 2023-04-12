@@ -31,12 +31,7 @@ I'm part of Libnova project management team since early 2023.
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/agile.webp"> &nbsp;
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
-    src="./assets/scrumagile.jpg">
-    
+    src="./assets/agile.webp"> 
 
 
 
