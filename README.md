@@ -33,6 +33,10 @@ I'm part of Libnova project management team since early 2023.
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
-
+&nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/itil-seeklogo.com.svg">
 
 --------
