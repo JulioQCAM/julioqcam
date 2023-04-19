@@ -8,6 +8,12 @@ Specialties:Project Management,Scrum Master, Kanban, GIS, VMWare, SaaS, PaaS, Ia
 
 I'm part of Libnova project management team since early 2023.
 
+Visit the following link for more details 
+<a href="https://julioqcam.github.io/" target="_blank" rel="noopener noreferrer">
+    </a>
+
+https://julioqcam.github.io/
+
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
