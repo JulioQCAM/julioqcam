@@ -1,5 +1,5 @@
 <img src="./assets/JulioHi.gif">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Julio+Quintero;Experienced+Project+Manager+on;Software%2C+Infraestructure+and+Security" alt="Typing SVG" /></a>
 <br>
 
 **Hi, I'm Julio. I have worked in multiple multinationals over the years. Even though I have a wide experience in the world of IT (SaaS, PaaS, IaaS), I have specialized in Databases and reporting, being Linux RedHat, networking and web technologies another strong point of my skills.
