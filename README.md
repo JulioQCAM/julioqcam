@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi!+I+am+Julio+Quintero;Experienced+Project+Manager+on+Software%2C+Infrastructure+and+Security;Let's+conversate+%3A)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Julio+Quintero;Experienced+Project+Manager+on;Software%2C+Infraestructure+and+Security" alt="Typing SVG" /></a>
 <br>
 
